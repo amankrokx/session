@@ -15,3 +15,7 @@ git commit -a // -a alowed automatic
 
 git log   // the history of commits and merges
 
+git branch
+
+git merge branchName
+
